@@ -7,3 +7,5 @@ status
 add 
 restore --staged 
 commit -m 
+## issue with ssh agent
+i am unable to interact with ssh agent correctly
