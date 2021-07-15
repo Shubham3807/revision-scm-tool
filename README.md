@@ -7,4 +7,3 @@ status
 add 
 restore --staged 
 commit -m 
-## pull command demo
